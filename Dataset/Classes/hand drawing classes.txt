@@ -1,0 +1,99 @@
+hand drawing (97 class) :
+
+- eiffel tower + great wall of china
+- mona lisa
+- airplane
+- alarm clock + clock
+- snowman
+- apple
+- hammer
+- banana 
+- baseball + basketball + soccer ball
+- basket
+- bat
+- beach
+- bed
+- bee
+- bicycle
+- eyeglasses
+- bird
+- birthday cake + cake
+- book
+- butterfly
+- bracelet
+- bread
+- broom
+- bus
+- cactus
+- camel
+- camera -> test
+- door -> test
+- candle
+- cannon
+- sailboat
+- car
+- carrot
+- castle
+- cat
+- celling fan + flower
+- calculator  -> هنتاكد بعد الرن
+- cell phone
+- guitar
+- chair + couch
+- church
+- cloud -> test
+- coffee cup + cup
+- computer
+- cookie -> test
+- cow
+- dog
+- dolphin
+- dragon
+- drums
+- duck
+- elephant
+- fish
+- flamingo
+- floor lamp
+- frog
+- giraffe
+- sandwitch
+- hat + helmet
+- headphone -> test
+- helicopter
+- horse
+- house
+- ice cream
+- laptop -> test
+- lion
+- mermaid
+- monkey
+- octopus
+- panda
+- pencil -> test
+- penguin
+- pig
+- pineapple
+- pizza
+- rabbit
+- sea turtle
+- shark
+- sheep
+- shoe
+- pants
+- smiley face
+- spider
+- squirrel
+- star
+- strawberry
+- sun
+- swan -> test
+- t-shirt
+- teddy bear 
+- television
+- traffic light
+- train
+- tree
+- umbrella
+- vase
+- watermellon
