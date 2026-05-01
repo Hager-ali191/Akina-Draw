@@ -230,8 +230,13 @@ python main.py
 | Stop predicting | Click **■ Stop** |
 | Clear canvas | Click **✕ Clear** |
 | Change brush size | Drag the brush slider |
+| Change eraser size | Drag the eraser slider |
+| Erase | Press E to toggle eraser — press again to switch back to pen |
+| Undo last strokePress | Ctrl + Z |
 | Browse all classes | Click the **▶** tab on the left to open the class panel |
 | Preview a class | Hover over any class name in the panel |
+| Show class panelPress | → (right arrow) |
+| Hide class panelPress | ← (left arrow) |
 | Quit | Press `ESC` or `Q` |
 
 **Prediction colours:**
