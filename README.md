@@ -287,7 +287,7 @@ And Also not to forget our **supervisor**
 
 - 🔗 **GitHub:** https://github.com/Hager-ali191/Akina-Draw
 - 📊 **Project slides:** https://www.canva.com/design/DAHHcMuVh0U/c1Y_KCjQVCFGVMFHEI-HPQ/edit
-- 📦 **Dataset:** [https://quickdraw.withgoogle.com/data](https://universe.roboflow.com/gemy4s-workspace/hand-drawing-all-waoss/browse/fork?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
+- 📦 **Dataset:** https://universe.roboflow.com/gemy4s-workspace/hand-drawing-all-waoss/browse/fork?queryText=&pageSize=50&startingIndex=0&browseQuery=true
 
 ---
 
