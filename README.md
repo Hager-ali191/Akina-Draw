@@ -64,7 +64,7 @@ User draws on canvas
  (grayscale → resize to 128×128)
         │
         ▼
-  MobileNetV2 CNN
+  Inception CNN
   (89-class softmax)
         │
         ▼
