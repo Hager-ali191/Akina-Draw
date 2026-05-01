@@ -270,11 +270,11 @@ Full list available in the application's class panel.
 Built by a team of 3 for the **Robotech Fair**.
 
 - **[Hager Ali]** — [@GitHub](https://github.com/Hager-ali191)
-- **[TMohammed Gamal]** — [@MohamadGemy04](#)
-- **[Mohammed Ahmed Hassan]** — [@Mohamed-Ahmed-prog](#)
+- **[TMohammed Gamal]** — [@GitHub](#https://github.com/MohamadGemy04)
+- **[Mohammed Ahmed Hassan]** — [@GitHub](#https://github.com/Mohamed-Ahmed-prog)
 
 And Also not to forget our **supervisor**
-- **[Malak Hisham]** — [@malakhishams](#)
+- **[Malak Hisham]** — [@GitHub](#https://github.com/malakhishams)
 
 ---
 
