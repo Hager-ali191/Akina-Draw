@@ -269,9 +269,12 @@ Full list available in the application's class panel.
 
 Built by a team of 3 for the **Robotech Fair**.
 
-- **[Your Name]** — [@GitHub](https://github.com/Hager-ali191)
-- **[Teammate 1 Name]** — [@GitHub](#)
-- **[Teammate 2 Name]** — [@GitHub](#)
+- **[Hager Ali]** — [@GitHub](https://github.com/Hager-ali191)
+- **[TMohammed Gamal]** — [@MohamadGemy04](#)
+- **[Mohammed Ahmed Hassan]** — [@Mohamed-Ahmed-prog](#)
+
+And Also not to forget our **supervisor**
+- **[Malak Hisham]** — [@malakhishams](#)
 
 ---
 
