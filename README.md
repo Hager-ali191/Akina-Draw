@@ -263,8 +263,8 @@ Full list available in the application's class panel.
 | GUI | Pygame |
 | Image processing | OpenCV |
 | Deep learning framework | TensorFlow / Keras |
-| CNN architecture | MobileNetV2 |
-| Dataset | Google Quick, Draw! |
+| CNN architecture | Inception |
+| Dataset | Doodle Dataset from Kaggle |
 | Training platform | Roboflow |
 | Language | Python 3.8+ |
 
